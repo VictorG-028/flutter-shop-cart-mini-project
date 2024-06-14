@@ -1,6 +1,9 @@
-# shop_cart
+# flutter-shop-cart-mini-project
 
-A new Flutter project.
+Project developed in the Distributed Systems discipline.
+This is a 3 members group project made in UFRPE.
+
+<!-- no backenmd unfortunately :( -->
 
 ## Getting Started
 
